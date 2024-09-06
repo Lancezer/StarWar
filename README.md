@@ -6,7 +6,7 @@
 
 ## 项目游玩
 
-本项目仅支持在`Windoes 11`上直接运行`.exe`程序文件。[`点我下载.exe`](https://github.com/Lancezer/StarWar/releases))
+本项目仅支持在`Windoes`上直接运行`.exe`程序文件。[`点我下载.exe`](https://github.com/Lancezer/StarWar/releases))
 
 > 为了最好的汉字显示效果，建议安装**思源黑体**字体（Source Han Sans CN）[`点我跳转`](https://github.com/adobe-fonts/source-han-sans)
 
