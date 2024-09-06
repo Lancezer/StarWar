@@ -12,4 +12,4 @@
 
 ## 游戏规则
 
-参见此[规则文档]:(./StarWar/Documents/GameRule.md)
+参见此[规则文档](./StarWar/Documents/GameRule.md)
